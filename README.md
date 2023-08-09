@@ -8,4 +8,4 @@ Basic Features
 - Select thumbnail to view page
 - Select thumbnail again to rotate page
 
-﻿# ![Screenshot](ViewPDF/Screenshot.png)
+﻿![Screenshot](ViewPDF/Screenshot.png)
