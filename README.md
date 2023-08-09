@@ -7,3 +7,5 @@ Basic Features
 - Generate thumbnails for all pages
 - Select thumbnail to view page
 - Select thumbnail again to rotate page
+
+﻿# ![Screenshot](ViewPDF/Screenshot.png)
